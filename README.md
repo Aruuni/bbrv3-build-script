@@ -5,5 +5,5 @@ sudo apt-get install git fakeroot build-essential ncurses-dev xz-utils libssl-de
 ```
 Usage: 
 ```
-sudo install.sh -m localhost 
+sudo bash install.sh -m localhost 
 ```
